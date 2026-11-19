@@ -7,7 +7,6 @@
 
 End-to-end data cleaning and exploratory data analysis (EDA) of **2,207 raw retail orders** (2024–2025) using Python. The project turns messy order data into a validated dataset and clear business insights on sales trends, regions, categories, channels, payments, order status and customer ratings.
 
-![Monthly sales trend](images/01_monthly_sales_trend.png)
 
 ## 📌 Headline Results
 
